@@ -17,7 +17,7 @@ const Header = () => {
                 </div>
                 <div className='search_box'>
                     <div className='search_bar'>
-                        <input type='text' placeholder='Search for products' />
+                        <input type='text' placeholder='Search for product...' />
                         <button>
                             <IoSearch />
                         </button>
